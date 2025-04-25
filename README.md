@@ -2,7 +2,7 @@
 
 Small project that provides a LLM inside docker container.
 
-- Model: DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf
+- Model: [DeepSeek-R1-Distill-Qwen-1.5B-Q4_K_M.gguf](https://huggingface.co/SandLogicTechnologies/DeepSeek-R1-Distill-Qwen-1.5B-GGUF/tree/main)
 
 - Base image: ghcr.io/ggerganov/llama.cpp:full
 
